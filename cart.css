@@ -1,0 +1,44 @@
+table {
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+  
+tr:nth-child(even){background-color: #f2f2f2}
+  
+th {
+    background-color: #04AA6D;
+    color: white;
+}
+img {
+      vertical-align: middle;
+}
+input[type="text"] {
+      width: 30px;
+      padding: 5px;
+      border-radius: 5px;
+      display: inline-block;
+      border: 1 solid gray;
+}
+/*.dec {
+      text-decoration: none;
+      padding: 5px 10px;
+      border: 1px solid #333;
+      border-radius: 5px;
+}
+.inc {
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+/*.p-action {
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}*/
